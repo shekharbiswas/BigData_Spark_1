@@ -18,3 +18,8 @@ According to IBM, Jobs in Big Data are expected to grow 40% in the coming years.
 
 - [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ9kujhMa-J4a68JByyttzyvgK_1a1_QZi8ZKZ0XWXmWm96QntXbIOUUJ_8X9mYnFaiTGCf760-78Bh/pub?start=false&loop=false&delayms=3000)
 - [PDF](https://github.com/shekharbiswas/BigData_Spark_1/blob/main/BigData%20with%20Kafka.pdf)
+
+## Module 3
+
+- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vTi9jcVv2TQ6fET08SO1yqKOBZJWQnjsu8oTfbUWwPIP2y9zRDzLFDPJQeWm22AkksBAC2sG-PdMZwe/pub?start=false&loop=false&delayms=3000&slide=id.g2fd359e8f7b_1_0)
+- PDF

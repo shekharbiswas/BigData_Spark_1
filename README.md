@@ -26,3 +26,4 @@ According to IBM, Jobs in Big Data are expected to grow 40% in the coming years.
 
 ## Module 4
 
+[Slides](https://docs.google.com/presentation/d/e/2PACX-1vSwoEAOOnBfZtHlC-7FvQ985yOHuMOHY--Hk53_ULLtdijFkOuQtwjSvh3HrN-PWx7lkTwrBEdtTWjx/pub?start=false&loop=false&delayms=3000)
